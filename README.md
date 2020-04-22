@@ -1,5 +1,6 @@
 ### Instructions: 
 - fork 
+- install db server `npm install -g json-server`
 - run `json-server --watch db.json`
 - use the index.html file and index.js file to code along [my blog]() 
 - check index-solution.js for solution
