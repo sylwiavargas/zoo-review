@@ -6,12 +6,12 @@
 - check index-solution.js for solution
 
 ### Objectives: 
-- understand how to slap something small on the DOM
-- iterate to slap multiple things on the dom
+- understand how to slap stuff on the DOM
+- iterate to slap multiple things on the DOM
 - try working with static data from an array first (such as an array of animals)
 - work with events
-- make our data bigger: slap divs on the dom from objects
-- move to fetching from our db.json
+- slap divs on the DOM from objects
+- fetch from db.json
 - understand promises in more detail
 - understand when to use headers
 - understand optimistic/pessimistic rendering
